@@ -1,13 +1,4 @@
 body {
-    background-color: #000;
-    span {
-        color: red;
-    }
-    background: url('@img/cover.jpg') 0 0 no-repeat;
-}
-
-@media (max-width: 768px) {
-    span {
-        font-size: 30px;
-    }
+    background-color: rgb(1, 225, 221);
+    color: #000
 }
